@@ -27,4 +27,4 @@ En cours...
 
 ## 📫 Contact
   
-- [**LinkedIn :**](www.linkedin.com/in/latchimy-nina)  
+- [**LinkedIn**](www.linkedin.com/in/latchimy-nina)
