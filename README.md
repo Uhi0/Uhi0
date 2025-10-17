@@ -1,16 +1,30 @@
-## Hi there 👋
+# Bonjour, je suis Nina LATCHIMY 👋
 
-<!--
-**Uhi0/Uhi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis une développeuse web junior passionnée par le développement et le design, et je me lance sérieusement dans l'apprentissage approfondi du métier, de ses bases et de ses différentes branches. Mon objectif est de devenir conceptrice UI dans le domaine du jeu vidéo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Compétences techniques
+
+- **Langages & Frameworks :** PHP (Laravel, CakePHP), JavaScript (React)  
+- **Web & Design :** CSS, Bootstrap, Sass, Figma, Penpot  
+- **Bases de données :** MySQL  
+- **Outils & Environnements :** Docker  
+
+---
+
+## 🎓 Formation en cours
+
+- Actuellement en TP **Concepteur Designer UI**, approfondissement des compétences en design et UX/UI.
+
+---
+
+## 🌟 Projets phares
+
+En cours...
+
+---
+
+## 📫 Contact
+  
+- **LinkedIn :** [www.linkedin.com/in/latchimy-nina](#)  
